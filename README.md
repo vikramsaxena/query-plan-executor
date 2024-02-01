@@ -1,4 +1,4 @@
-# CS539 - Database System
+# Rutgers: CS539 - Database System
 
 Programming Project 2 - Query Execution
 
