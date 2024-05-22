@@ -1,4 +1,4 @@
-# Rutgers: CS539 - Database Management Systems
+# Rutgers University: CS539 - Database Management Systems
 
 Programming Project 2 - Query Execution
 
